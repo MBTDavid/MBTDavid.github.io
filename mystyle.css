@@ -55,8 +55,11 @@ img {
 .banner {
 	width:95%; 
 	height: auto; 
-	margin:auto; 
-	margin-top: 10px;
-	max-width: 300px;
+	margin: 10px;
+	max-width: 350px;
 	float: left;
+}
+
+.hold-size {
+	min-height: 300px;
 }
