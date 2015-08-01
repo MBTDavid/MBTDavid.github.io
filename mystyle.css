@@ -71,3 +71,16 @@ img {
 #Intro p {
 	font-size: 130%;
 }
+
+
+@media(max-width: 500px) {
+    .headshot {
+       float: none;
+       max-width: 90%;
+       max-height: auto;
+    }
+
+    .banner {
+    	width: 90%;
+    }
+}
