@@ -15,5 +15,6 @@ body {
 	padding: 20px;
 	background: white;
 	opacity: 0.8;
-	border-radius: 10px 0px 0px 10px;
+	border: 1px solid;
+	border-radius: 10px;
 }
