@@ -48,6 +48,6 @@ img {
 	border-top: 1px solid lightgrey;
 }
 
-.distiction:hover {
-font-size: 150%;
+.distiction {
+	color: #222;
 }
