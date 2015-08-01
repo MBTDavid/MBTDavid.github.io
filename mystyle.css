@@ -23,7 +23,7 @@ img {
 	border: solid 1px black;
 	max-width: 200px;
 	max-height: 200px;
-	margin: 10px;
+	margin-left: 10px;
 }
 
 .container {
