@@ -67,3 +67,7 @@ img {
 .hold-size {
 	min-height: 160px;
 }
+
+#Intro p {
+	font-size: 130%;
+}
