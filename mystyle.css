@@ -28,3 +28,12 @@ body {
 #ContentManager {
 	border-top: 1px solid lightgrey;
 }
+
+p {
+	float: left;
+}
+
+img {
+	padding: 10px;
+	border: solid 1px black;
+}
