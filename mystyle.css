@@ -4,9 +4,9 @@ html {
 
 h1 {
 	color: red;
-	font: "Verdana";
+	font-family: "Verdana";
 }
 
 body {
-	font: "Book Antiqua";
+	font-family: "Book Antiqua";
 }
