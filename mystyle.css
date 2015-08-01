@@ -77,7 +77,7 @@ img {
     .headshot {
        float: none;
        max-width: 90%;
-       max-height: auto;
+       max-height: 450px;
     }
 
     .banner {
