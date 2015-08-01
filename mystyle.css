@@ -19,7 +19,7 @@ margin-top: 10px;
 }
 
 img {
-	padding: 10px;
+	padding: 3px;
 	border: solid 1px black;
 	max-width: 200px;
 	max-height: 200px;
@@ -42,3 +42,6 @@ img {
 	border-top: 1px solid lightgrey;
 }
 
+.distiction:hover {
+font-size: 150%;
+}
