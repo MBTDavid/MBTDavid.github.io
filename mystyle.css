@@ -83,4 +83,8 @@ img {
     .banner {
     	width: 90%;
     }
+    
+    .container {
+    	width: 85%;
+    }
 }
