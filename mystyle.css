@@ -12,6 +12,7 @@ h1,h2,h3,h4,h5,h6 {
 body {
 	font-family: "Book Antiqua", serif;
 transition: font-size 2s;
+-webkit-transition: width 2s; /* Safari */
 }
 
 
@@ -19,10 +20,11 @@ ul {
 margin-top: 10px;
 }
 
-#intro img {
+.headshot {
 	max-width: 200px;
 	max-height: 200px;
 	margin-left: 10px;
+	float:right;
 }
 
 img {
