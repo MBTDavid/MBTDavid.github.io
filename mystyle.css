@@ -64,6 +64,9 @@ img {
 	float: left;
 }
 
+li {
+	padding-bottom: 10px;
+}
 .hold-size {
 	min-height: 160px;
 }
